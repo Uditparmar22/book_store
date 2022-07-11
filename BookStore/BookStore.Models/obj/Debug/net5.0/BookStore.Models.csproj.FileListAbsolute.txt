@@ -1,0 +1,15 @@
+D:\project(ts)\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\project(ts)\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\project(ts)\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\project(ts)\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\project(ts)\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\refint\BookStore.Models.dll
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\project(ts)\BookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
